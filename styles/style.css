@@ -15,7 +15,7 @@ body {
 }
 
 .header_menu {
-  margin-top: 1px;
+  margin-top: 4px;
   grid-column-start: 1;
   grid-column-end: 6;
   justify-self: center;
@@ -28,6 +28,7 @@ body {
   grid-template-columns: repeat(12, 1fr);
   list-style-type: circle;
   justify-items: center;
+  padding-left: 15px;
 }
 
 .header_menu-main {
@@ -39,6 +40,7 @@ body {
 .header_menu-lots {
   grid-column-start: 3;
   grid-column-end: 9;
+  margin-left: 15px;
 }
 
 .header_menu-auc {
