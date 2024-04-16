@@ -12,7 +12,6 @@ body {
   position: relative;
   font-size: 18px;
   font-weight: 500;
-
 }
 
 .header_menu {
@@ -21,7 +20,7 @@ body {
   grid-column-end: 6;
   justify-self: center;
   align-self: center;
-  text-underline-offset: 4px; 
+  text-underline-offset: 4px;
 }
 
 .header_menu_list {
@@ -34,7 +33,7 @@ body {
 .header_menu-main {
   grid-column-start: 1;
   grid-column-end: 3;
-  list-style-type: none; 
+  list-style-type: none;
 }
 
 .header_menu-lots {
@@ -73,7 +72,7 @@ body {
 
 .cover {
   background-image: url(../images/cover.jpg);
-  height: 78.5vh;
+  height: 757px;
   background-size: cover;
   background-position: center;
   text-transform: uppercase;
@@ -118,7 +117,7 @@ body {
 
 .aligned-text_right {
   margin-left: 585px;
-  margin-top: 3px; 
+  margin-top: 3px;
 }
 
 .cover__description {
@@ -142,7 +141,6 @@ body {
   border-color: white;
   font-size: 22px;
   padding: 12px 32px;
-  border-color: white;
   margin-left: 77px;
   margin-top: 127px;
 }
@@ -201,7 +199,7 @@ body {
   z-index: 1;
   text-decoration: underline;
   text-decoration-thickness: 1px;
-  text-underline-offset: 3px; 
+  text-underline-offset: 3px;
 }
 
 .card__text {
