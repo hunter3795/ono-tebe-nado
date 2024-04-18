@@ -287,11 +287,11 @@
 .about__text {
   font-size: 20px;
   line-height: 24px;
+  margin-bottom: 25px;
 }
 
 .about__text:first-of-type {
   word-spacing: 1px;
-  margin-bottom: 25px;
 }
 
 .about__text:last-of-type {
