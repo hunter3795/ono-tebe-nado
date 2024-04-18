@@ -73,6 +73,7 @@
   background-color: rgba(0, 0, 0, 0.6);
   position: absolute;
   z-index: 0;
+  inset: 0;
 }
 
 .cover__title {
@@ -290,10 +291,11 @@
 
 .about__text:first-of-type {
   word-spacing: 1px;
+  margin-bottom: 25px;
 }
 
 .about__text:last-of-type {
-  margin-top: 25px;
+  margin-bottom: 0;
 }
 
 /* Подвал */
